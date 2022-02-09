@@ -1,0 +1,18 @@
+### To check build in module names
+import sys
+sys.builtin_module_names
+
+### To check methods of particular module
+dir(module_name)
+Eg : dir(time)
+
+### To check methods availble in module classes
+dir(module_name.method_name)
+Eg : dir(time.sleep)
+
+### To get help
+help(module_name.method_name)
+Eg : help(time.sleep)
+
+### To install files which are in requirements.txt
+ex: pip install -r requirements.txt

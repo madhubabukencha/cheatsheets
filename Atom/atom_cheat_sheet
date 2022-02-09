@@ -1,0 +1,17 @@
+############ Emment Cheat Sheet ##############
+https://docs.emmet.io/cheat-sheet/
+
+
+<tag>*<number_of_time> + tab --> Prints the specified tag given number of times
+
+###########Recommened Plugins ################
+atom-beautify
+atom-ternjs
+autoclose-html
+emmet
+csslint
+pigments
+language-ejs
+atom-html-preview
+Sublime-Style-Column-Selection
+linter-eslint

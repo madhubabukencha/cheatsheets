@@ -1,0 +1,17 @@
+1. Sing in with you github account
+https://review.gerrithub.io/static/intro.html
+
+2. Give all permission
+
+3. Import your repository from github
+
+4. clone your respository
+https://review.gerrithub.io/admin/repos/madhubabukencha/python
+
+5. some times it clone with master branch, checkout to "main" branch
+
+6. make changes, to raise gerrit review
+git push origin HEAD:refs/for/main
+
+7. if you are cloning using https you need to generate password here
+https://review.gerrithub.io/settings/#HTTPCredentials

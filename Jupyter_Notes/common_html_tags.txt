@@ -1,0 +1,54 @@
+###### For title ####
+<center><font size=6 color="#00416d">Introduction to Machine Learning</font></center>
+
+##### For sub-title #####
+<font size=5 color="color:#290001;">Notations:</font>
+
+##### For adding an image ######
+![title](img/picture.png)
+or
+<img src="images\clustering.jpg" alt="Drawing" style="width: 600px;"/>
+
+##### For paragragh ######
+<p><font size=3 color="#218aa6"></font><p>
+
+##### For hightlighting text #####
+<mark style="background-color: #ffb0b0;">Sample Text</mark>
+
+###### For add gif(on code cell not on markdown) ######
+from IPython.display import Image
+Image(filename='D:\Programming_Languages\Datastructure_Algorithms\images\linear_search.gif')
+
+
+####### For adding defination and quotations #####
+<blockquote style="font-weight: bold; font-style: italic;color: white;background-color: black;"><p>A field of study that gives computers the ability to learn without being explicitly programmed.</p><footer>Authur Samuel</footer></blockquote>
+
+
+###### For code blocks ######
+<center><code style="font-family:monospace; color: crimson; background-color:lightgray; padding: 2px;font-size: 300%">Y=f(x)</code></center> <br><br>
+
+
+##### For hat on characters(see html enties) #####
+ &Ycirc;
+
+### For table #####
+<font size=5 color="color:#290001;">Terms Comparision:</font> <br>
+<table style="font-family: arial, sans-serif;width:50%; margin-left: 0;">
+    <tr>
+        <th>Machine Learning</th>
+        <th>Statistics</th>
+    </tr>
+    <tr>
+        <td>2014</td>
+        <td>2</td>
+    </tr>
+</table>
+
+
+#### For additional space ################
+Type &nbsp; to add a single space.
+Type &ensp; to add 2 spaces.
+Type &emsp; to add 4 spaces.
+
+###### To bring latex left ################
+$\begin{align} J(\theta) = -\dfrac{1}{m} \sum_{i=1}^{m} [\log(h_\theta(x)) + {(1-y)} \log(1-h_\theta(x))] \end{align}$

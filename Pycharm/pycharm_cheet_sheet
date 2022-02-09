@@ -1,0 +1,17 @@
+# To comment multiple line at once
+CONT+/
+
+# To align selected text right
+Tab
+
+# To align selected text left
+shift + Tab
+
+# To find
+CONT+F
+
+# To find and replace
+CONT+R
+
+# To get documentation
+https://www.jetbrains.com/help/pycharm/viewing-reference-information.html

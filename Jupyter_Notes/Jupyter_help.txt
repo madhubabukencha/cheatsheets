@@ -1,0 +1,9 @@
+# To run a shell
+shift+Enter
+
+# To get documentation
+Shift + Tab
+
+# To get suggest available on perticular object use
+object. + Tab
+
