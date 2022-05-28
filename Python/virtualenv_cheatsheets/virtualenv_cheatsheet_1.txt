@@ -1,0 +1,37 @@
+Step 1:-
+Installing virtual environment:
+pip install virtualenv
+
+Step 2:-
+Move to the directory where you want to create your virtual environment
+
+Step 3:-
+To create virtual environment :
+virtualenv project_name
+
+Step 4:-
+Go the project directory
+cd project_name
+
+Step 5:- 
+To activate virtual environment in windows:
+Scripts\activate
+
+To activate virtual environment in Linux\Mac:
+source project_name/bin/activate
+
+Step 6:-
+To deactivate virtual environment:
+deactivate
+
+To check installed packages:
+pip list
+
+To install packages in virtual environment:
+pip install package_name
+
+To redirect to all your packages to use in other projects:
+pip freeze --local > requirements.txt
+
+To install all packages which are inside package.txt  in other packages:
+pip install -r requirements.txt

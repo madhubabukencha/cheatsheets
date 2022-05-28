@@ -4,7 +4,7 @@
   python -i <file_name> <agrs_if_any>
 
 # To get interactive Python debugging(pdb) console,
-  python -m <module_name> <file_name>
+  python -m pdb <file_name>
   Eg :- python -m pdb 1_sample.py
 
 # To know all pdb command you can use below command:
