@@ -1,8 +1,17 @@
 ###### For title ####
-<center><font size=6 color="#00416d">Introduction to Machine Learning</font></center>
+<p style="color:#153462; 
+          font-weight: bold; 
+          font-size: 30px; 
+          font-family: Gill Sans, sans-serif; 
+          text-align: center;">
+              Definations Of Machine Learning</p>
 
 ##### For sub-title #####
-<font size=5 color="color:#290001;">Notations:</font>
+<p style="color:#3C4048; 
+          font-weight: bold; 
+          font-size: 18px; 
+          font-family: Gill Sans, sans-serif;">
+          Formal Definitions Of Machine Learning(ML):</p>
 
 ##### For adding an image ######
 ![title](img/picture.png)
@@ -21,7 +30,7 @@ Image(filename='D:\Programming_Languages\Datastructure_Algorithms\images\linear_
 
 
 ####### For adding defination and quotations #####
-<blockquote style="font-weight: bold; font-style: italic;color: white;background-color: black;"><p>A field of study that gives computers the ability to learn without being explicitly programmed.</p><footer>Authur Samuel</footer></blockquote>
+<blockquote style="font-weight: bold;"><p>A field of study that gives computers the ability to learn without being explicitly programmed.</p><footer>Authur Samuel</footer></blockquote>
 
 
 ###### For code blocks ######
