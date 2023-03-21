@@ -6,3 +6,12 @@ hspace{1cm}
 
 # For fractions
 $$\therefore \frac{n}{2^1}, \frac{n}{2^2}, \frac{n}{2^3} ... 1 $$ <br>
+
+# \\ = for new line
+# \displaystyle\sum_{lower_value} ^{upper value} = for summation. Display style helps in beutifying the summation.
+# ^{some value} = super script
+# _{some value} = subscript
+# \neq = not equal
+# \frac = fraction
+# \left( \right) = left and right brackets
+# \approx = approximation

@@ -4,7 +4,7 @@
           font-size: 30px; 
           font-family: Gill Sans, sans-serif; 
           text-align: center;">
-              Definations Of Machine Learning</p>
+          Definations Of Machine Learning</p>
 
 ##### For sub-title #####
 <p style="color:#3C4048; 
@@ -13,13 +13,20 @@
           font-family: Gill Sans, sans-serif;">
           Formal Definitions Of Machine Learning(ML):</p>
 
+##### For paragragh ######
+<p style="text-align: justify; text-justify: inter-word;">
+   <font size=3>
+	text
+   </font>
+</p>
+
 ##### For adding an image ######
 ![title](img/picture.png)
 or
 <img src="images\clustering.jpg" alt="Drawing" style="width: 600px;"/>
 
-##### For paragragh ######
-<p><font size=3 color="#218aa6"></font><p>
+
+
 
 ##### For hightlighting text #####
 <mark style="background-color: #ffb0b0;">Sample Text</mark>
