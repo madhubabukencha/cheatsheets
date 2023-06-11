@@ -1,17 +1,15 @@
 # For creating a Matrix:
 \begin{align*}A &=\begin{bmatrix}-30 & 20 & 20 \\ 10 & -20 & -20 \end{bmatrix}\end{align*}
 
-# For horizantal space
-hspace{1cm}
 
-# For fractions
-$$\therefore \frac{n}{2^1}, \frac{n}{2^2}, \frac{n}{2^3} ... 1 $$ <br>
 
-# \\ = for new line
-# \displaystyle\sum_{lower_value} ^{upper value} = for summation. Display style helps in beutifying the summation.
-# ^{some value} = super script
-# _{some value} = subscript
-# \neq = not equal
-# \frac = fraction
-# \left( \right) = left and right brackets
-# \approx = approximation
+# hspace{1cm}                                       : For one horizantal space
+# \\                                                : For new line
+# \displaystyle\sum_{lower_value} ^{upper value}    : For summation. Display style helps in beutifying the summation.
+# ^{some value}                                     : Super script
+# _{some value}                                     : Subscript
+# \neq                                              : Not equal
+# \frac{numerator_value}{denominator_value}         : Fraction
+# \left( \right)                                    : Left and Right brackets
+# \approx                                           : Approximation sign
+# \times                                            : Arithematic multiplication sign(x)

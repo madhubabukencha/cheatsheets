@@ -25,9 +25,6 @@
 or
 <img src="images\clustering.jpg" alt="Drawing" style="width: 600px;"/>
 
-
-
-
 ##### For hightlighting text #####
 <mark style="background-color: #ffb0b0;">Sample Text</mark>
 
