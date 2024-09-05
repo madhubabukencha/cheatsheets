@@ -1,0 +1,16 @@
+###### Command Line Commands
+1. To create folder
+   $ mkdir folder_name
+
+2. To remove directory
+   $ rmdir folder_name
+
+3. To create a file
+   $ type nul > file_name.extension
+
+###### File Explorer Shortcuts
+1. To select url of current working directory
+   Ctrl + L
+
+2. To navigate between folders you can use alphabets in the keyboards. For example, to move to the place where
+   folders starts with name "s", you can press "s" in the keyboard.

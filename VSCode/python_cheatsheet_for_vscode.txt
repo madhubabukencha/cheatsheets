@@ -2,4 +2,4 @@
 * Open View
 * Click on "Command Palette"
 * Search for "Python: Select Interpreter"
-* Add your Virtual environment path there Ex:D:\Projects\django_venv\Scripts\python.exe 
+* Add your Virtual environment path there Ex:D:\Projects\django_venv

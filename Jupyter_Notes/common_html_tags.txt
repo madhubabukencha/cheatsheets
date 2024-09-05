@@ -7,23 +7,25 @@
           Definations Of Machine Learning</p>
 
 ##### For sub-title #####
-<p style="color:#3C4048; 
-          font-weight: bold; 
-          font-size: 18px; 
-          font-family: Gill Sans, sans-serif;">
-          Formal Definitions Of Machine Learning(ML):</p>
+// this works fine in jupyter lab. we can also see an indexing for it
+### <span style="color:#C738BD; font-weight: bold; font-family: cursive">title</span>
+
+--sub sub heading 
+#### <span style="color:#40A578; font-weight: bold; font-family: cursive">title</span>
 
 ##### For paragragh ######
-<p style="text-align: justify; text-justify: inter-word;">
-   <font size=3>
-	text
-   </font>
+<p style="text-align: justify; text-justify: inter-word; font-family: cursive;">
+  text
 </p>
-
 ##### For adding an image ######
 ![title](img/picture.png)
 or
 <img src="images\clustering.jpg" alt="Drawing" style="width: 600px;"/>
+
+##### To use heading as hyper links ####
+Replace spaces of your heading with hypens
+
+<a href="#Mean-Interneuron-Distance">Mean Interneuron Distance</a>
 
 ##### For hightlighting text #####
 <mark style="background-color: #ffb0b0;">Sample Text</mark>

@@ -1,8 +1,0 @@
-1. To create folder
-   $ mkdir folder_name
-
-2. To remove directory
-   $ rmdir folder_name
-
-3. To create a file
-   $ type nul > file_name.extension

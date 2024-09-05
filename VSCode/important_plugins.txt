@@ -1,0 +1,1 @@
+1. Draw.io Integration -> Edit .drawio, .dio, .drawio.svg or .drawio.png files in the Draw.io editor

@@ -3,7 +3,7 @@
 
 
 
-# hspace{1cm}                                       : For one horizantal space
+# \hspace{0.1cm}                                    : For one horizantal space
 # \\                                                : For new line
 # \displaystyle\sum_{lower_value} ^{upper value}    : For summation. Display style helps in beutifying the summation.
 # ^{some value}                                     : Super script
