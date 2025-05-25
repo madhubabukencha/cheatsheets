@@ -2,21 +2,28 @@
 <p style="color:#153462; 
           font-weight: bold; 
           font-size: 30px; 
-          font-family: Gill Sans, sans-serif; 
+          font-family: Gill Sans, sans-serif;
           text-align: center;">
-          Definations Of Machine Learning</p>
+          Machine Learning</p>
 
 ##### For sub-title #####
 // this works fine in jupyter lab. we can also see an indexing for it
-### <span style="color:#C738BD; font-weight: bold; font-family: cursive">title</span>
+### <span style="color:#123524;  font-weight: bold;">title</span>
 
---sub sub heading 
+-- sub sub heading 
 #### <span style="color:#40A578; font-weight: bold; font-family: cursive">title</span>
 
 ##### For paragragh ######
-<p style="text-align: justify; text-justify: inter-word; font-family: cursive;">
+<p style="text-align: justify; 
+          text-justify: inter-word;
+          font-size:17px;">
   text
 </p>
+
+#### To link one notebook to other ###
+[2_Activation_Function.ipynb](chap001_ann_intuition/2_Activation_Function.ipynb)
+NOTE: It should not be in paragraph tag
+
 ##### For adding an image ######
 ![title](img/picture.png)
 or
